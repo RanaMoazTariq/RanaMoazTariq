@@ -11,13 +11,13 @@
 
 <!-- SOCIAL BADGES -->
   <p align="center">
-    <a href="https://linkedin.com/in/moaztariq">
+    <a href="https://linkedin.com/in/www.linkedin.com/in/ranamoaztariq">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="mailto:moaztariq321@gmail.com">
+    <a href="mailto:moazworks@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
-    <a href="https://wa.me/03217627007">
+    <a href="https://wa.me/03121720039">
       <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
     </a>
   </p>
