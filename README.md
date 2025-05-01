@@ -12,9 +12,8 @@
 <!-- SOCIAL BADGES -->
   <p align="center">
     <a href="https://moaztariq.online/">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-
+      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    </a>
     <a href="https://www.linkedin.com/in/ranamoaztariq/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
