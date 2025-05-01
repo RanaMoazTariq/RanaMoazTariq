@@ -30,6 +30,9 @@
     </a>
   </p>
 </div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-Avatars/main/assets/flags/pakistan_palestine.gif" width="250" alt="Pakistan and Palestine Flags" />
+</p>
 
 ## 🔥 About Me
 
