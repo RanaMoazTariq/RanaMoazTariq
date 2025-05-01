@@ -1,29 +1,7 @@
 <!-- FLOATING FLAGS -->
-<style>
-  @keyframes float {
-    0% { transform: translateY(0); }
-    50% { transform: translateY(-20px); }
-    100% { transform: translateY(0); }
-  }
-
-  .floating-flags {
-    position: fixed;
-    bottom: 10px;
-    left: 10px;
-    animation: float 3s ease-in-out infinite;
-  }
-
-  .floating-flags img {
-    width: 60px;
-    height: 40px;
-    margin: 5px;
-  }
-</style>
-
-<div class="floating-flags">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Pakistan.svg" alt="Pakistan Flag" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_Palestine.svg" alt="Palestine Flag" />
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-Avatars/main/assets/flags/pakistan_palestine.gif" width="250" alt="Pakistan and Palestine Flags" />
+</p>
 
 <!-- PROFILE HEADER -->
 <div align="center">
