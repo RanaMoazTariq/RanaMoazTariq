@@ -11,7 +11,7 @@
 
 <!-- SOCIAL BADGES -->
   <p align="center">
-    <a href="[https://linkedin.com/in/www.linkedin.com/in/ranamoaztariq](https://www.linkedin.com/in/ranamoaztariq/)">
+    <a href="(https://www.linkedin.com/in/ranamoaztariq/)">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     <a href="mailto:moazworks@gmail.com">
