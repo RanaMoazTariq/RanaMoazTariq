@@ -76,6 +76,22 @@
 - 💻 **Website:** [Prime Layer Technologies](#) (Coming Soon)
 
 ---
+<!-- SOCIAL BADGES -->
+  <p align="center">
+    <a href="https://moaztariq.online/">
+      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    </a>
+    <a href="https://www.linkedin.com/in/ranamoaztariq/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:moazworks@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://wa.me/03121720039">
+      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    </a>
+  </p>
+</div>
 
 ## 🛠️ Languages & Tools
 
