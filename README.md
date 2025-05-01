@@ -68,7 +68,7 @@
 
 - 📧 **Email:**  (moazworks@gmail.com) & (contact@moaztariq.online)
 - 🌐 **Portfolio:** [moaztariq.online](https://moaztariq.online)  
-- 💼 **LinkedIn:** [linkedin.com/in/moaz-tariq-b98a1834b](https://www.linkedin.com/in/moaz-tariq-b98a1834b/)  
+- 💼 **LinkedIn:** (https://www.linkedin.com/in/ranamoaztariq/)
 - 💻 **Website:** [Prime Layer Technologies](#) (Coming Soon)
 
 ---
