@@ -1,11 +1,27 @@
-<h1 align="center">Hi 👋, I'm Moaz Tariq</h1>
-<h3 align="center">A passionate Full Stack Developer, APP Developer, Graphic Designer, Graphic Designer, SEO Expert, AI Tools Creator & Tech Entrepreneur</h3>
+<!-- PROFILE HEADER -->
+<div align="center">
+  <a href="https://moaztariq.online">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=200&section=header&text=Moaz%20Tariq&fontSize=60&fontColor=ffffff&animation=fadeIn" alt="Header" />
+  </a>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+MERN+Developer;Mobile+App+Developer;AI+Tools+Creator;SEO+Expert;Graphic+Designer;Tech+Enthusiast&center=true&width=1000&height=45&color=00ff99&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
-</p>
+<!-- TYPING ANIMATION -->
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&height=50&lines=Full-Stack+Developer;AI+Engineer;Tech+Entrepreneur;Open+Source+Contributor" alt="Typing Animation">
+  </p>
 
----
+<!-- SOCIAL BADGES -->
+  <p align="center">
+    <a href="https://linkedin.com/in/moaztariq">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:moaztariq321@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://wa.me/03217627007">
+      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    </a>
+  </p>
+</div>
 
 ## 🔥 About Me
 
