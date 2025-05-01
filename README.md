@@ -68,21 +68,9 @@
 
 ---
 
-## 📫 Contact Me
-
-- 📧 **Email:**  (moazworks@gmail.com) & (contact@moaztariq.online)   <a href="https://moaztariq.online/">
-      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
-    </a>
-- 🌐 **Portfolio:** [moaztariq.online](https://moaztariq.online)   <a href="https://www.linkedin.com/in/ranamoaztariq/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-- 💼 **LinkedIn:** [(https://www.linkedin.com/in/ranamoaztariq/)](https://www.linkedin.com/in/moaz-tariq-b98a1834b/)   <a href="mailto:moazworks@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-- 💻 **Website:** [Prime Layer Technologies](#) (Coming Soon) <a href="https://wa.me/03121720039">
+## 📫 Contact Me<a href="https://wa.me/03121720039">
       <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
     </a>
-
 ---
 
 ## 🛠️ Languages & Tools
