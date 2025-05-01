@@ -1,15 +1,20 @@
+<!-- FLOATING FLAGS -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-Avatars/main/assets/flags/pakistan_palestine.gif" width="250" alt="Pakistan and Palestine Flags" />
+</p>
+
 <!-- PROFILE HEADER -->
 <div align="center">
   <a href="https://moaztariq.online">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=200&section=header&text=Moaz%20Tariq&fontSize=60&fontColor=ffffff&animation=fadeIn" alt="Header" />
   </a>
 
-<!-- TYPING ANIMATION -->
+  <!-- TYPING ANIMATION -->
   <p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&height=50&lines=Full-Stack+Developer;AI+Engineer;Tech+Entrepreneur;Open+Source+Contributor" alt="Typing Animation">
   </p>
 
-<!-- SOCIAL BADGES -->
+  <!-- SOCIAL BADGES -->
   <p align="center">
     <a href="https://moaztariq.online/">
       <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
@@ -84,12 +89,8 @@
 
 ---
 
-
----
-
 ## 😄 Fun Fact
 
 > I started a tech company during my studies, created over **10+ AI tools**, and continue to help others build digital solutions from scratch 🚀
 
 ---
-
