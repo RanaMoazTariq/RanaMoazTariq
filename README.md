@@ -68,9 +68,13 @@
 
 ---
 
-## 📫 Contact Me<a href="https://wa.me/03121720039">
-      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-    </a>
+## 📫 Contact Me
+
+
+- 📧 **Email:**  (moazworks@gmail.com) & (contact@moaztariq.online)
+- 🌐 **Portfolio:** [moaztariq.online](https://moaztariq.online)  
+- 💼 **LinkedIn:** [(https://www.linkedin.com/in/ranamoaztariq/)](https://www.linkedin.com/in/moaz-tariq-b98a1834b/)
+- 💻 **Website:** [Prime Layer Technologies](#) (Coming Soon)
 ---
 
 ## 🛠️ Languages & Tools
