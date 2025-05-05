@@ -80,7 +80,7 @@
 ## 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,nodejs,mongodb,php,mysql,firebase,figma,androidstudio,github,vscode,ai" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,nodejs,nextjs,mongodb,php,mysql,sqlite,ts,vite,firebase,wordpress,androidstudio,github,vscode,sublime,replit,ai,figma,ps,cpp,python,opencv,idea,docker,git,npm,pnpm,cmake" />
 </p>
 
 ---
